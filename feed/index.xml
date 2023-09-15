@@ -12,30 +12,33 @@
 	<atom:link href="https://faizoken.github.io/Faizo.Net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faizoken.github.io/Faizo.Net/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Sep 2023 16:43:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Sep 2023 14:41:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://faizoken.github.io/Faizo.Net/wp-content/uploads/2023/09/Logocrop-100x100.png</url>
+	<title>Faizo.Net</title>
+	<link>https://faizoken.github.io/Faizo.Net/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Hello world!</title>
+		<title>Home Page</title>
 		<link>https://faizoken.github.io/Faizo.Net/2023/09/14/hello-world/</link>
-					<comments>https://faizoken.github.io/Faizo.Net/2023/09/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 16:43:25 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://faizoken.github.io/Faizo.Net/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://faizoken.github.io/Faizo.Net/2023/09/14/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
